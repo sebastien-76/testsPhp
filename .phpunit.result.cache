@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\Entity\\ProductTest::testDefault":4,"App\\Tests\\Entity\\ProductTest::testcomputeTVAFoodProduct":4},"times":{"App\\Tests\\Entity\\ProductTest::testDefault":0.001,"App\\Tests\\Entity\\ProductTest::testcomputeTVAFoodProduct":0.002}}
